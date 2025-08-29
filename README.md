@@ -1,2 +1,4 @@
 # todo-list-app
-To do list app.
+Hello! Welcome to my to do list app.
+
+
